@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project provides an automated system for detecting outliers in interest rate data reported by the European Central Bank (BCE). The data is processed in several stages, resulting in a final report containing both statistical analysis of outliers and exported CSV files for further review.
+This project provides an automated system for detecting outliers in interest rate data reported by the European Central Bank (ECB). The data is processed in several stages, resulting in a final report containing both statistical analysis of outliers and exported CSV files for further review.
 
 ## Project Structure
 
