@@ -1,4 +1,4 @@
-# Automated Outlier Detection for BCE Interest Rate Data: Processing and Reporting
+# Automated Outlier Detection for ECB Interest Rate Data: Processing and Reporting
 
 ## Overview
 
